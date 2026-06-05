@@ -20,6 +20,30 @@ Rozwiązania IT i automatyzacja procesów dla firm z branży telekomunikacyjnej 
 
 `Python` `Flask` `n8n` `PyQGIS` `Google Cloud` `nginx` `Google Apps Script`
 
+## 🐍 Nasza firma w Pythonie
+
+```python
+class BudArtAI:
+    def __init__(self):
+        self.lokalizacja = "Rzeszów, Podkarpacie 🇵🇱"
+        self.branze = ["FTTH 🌐", "instalacje LAN 🔌", "meble na wymiar 🪑"]
+        self.stack = {"backend": "Flask", "automatyzacja": "n8n", "GIS": "QGIS"}
+        self.kawa_wypita = float("inf")
+
+    def dzien_pracy(self):
+        while True:
+            problem = self.znajdz_problem_w_firmie()
+            self.napisz_skrypt(problem)      # zamiast robić ręcznie 100 razy
+            print("Zautomatyzowane ✅")
+
+    def kontakt(self):
+        return "biuro@modlansystems.com"
+```
+
+## 📊 Aktywność
+
+![Statystyki GitHub](https://github-readme-stats.vercel.app/api?username=ArturMakara&show_icons=true&theme=tokyonight&locale=pl)
+
 ## 📫 Kontakt
 
 - 🌐 [modlansystems.com](https://www.modlansystems.com) — instalacje teletechniczne
